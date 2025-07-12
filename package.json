@@ -1,0 +1,13 @@
+
+{
+  "name": "cybearch",
+  "version": "1.0.0",
+  "description": "Dynamic website with Google Sign-In and Payment Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
